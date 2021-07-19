@@ -1,4 +1,0 @@
-menu
-
-burgir 1000 cal 12.99
-
